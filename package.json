@@ -1,0 +1,21 @@
+{
+  "name": "electron-16-study",
+  "version": "1.0.0",
+  "description": "Electron 16 学习项目",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitee.com/xuxiaowei-com-cn/electron-16-study.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "徐晓伟",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^16.0.6"
+  }
+}
