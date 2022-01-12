@@ -17,6 +17,6 @@
   "author": "徐晓伟",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^16.0.6"
+    "electron": "16.0.6"
   }
 }
