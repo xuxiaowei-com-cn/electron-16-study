@@ -52,7 +52,9 @@
     "not dead"
   ],
   "keywords": [
-    "electron"
+    "electron",
+    "electron-builder",
+    "vue"
   ],
   "license": "MIT",
   "repository": {
