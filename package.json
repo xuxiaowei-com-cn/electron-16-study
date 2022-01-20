@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "description": "Electron 16 学习项目",
-  "author": "徐晓伟",
+  "author": "徐晓伟 <xuxiaowei@xuxiaowei.com.cn>",
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
