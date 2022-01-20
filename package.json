@@ -14,7 +14,7 @@
   "keywords": [
     "electron"
   ],
-  "author": "徐晓伟",
+  "author": "徐晓伟 <xuxiaowei@xuxiaowei.com.cn>",
   "license": "MIT",
   "devDependencies": {
     "electron": "16.0.6"
