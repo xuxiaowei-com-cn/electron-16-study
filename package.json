@@ -17,6 +17,6 @@
   "author": "徐晓伟 <xuxiaowei@xuxiaowei.com.cn>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "16.0.6"
+    "electron": "22.3.21"
   }
 }
